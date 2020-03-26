@@ -1,0 +1,28 @@
+.top-most-container{
+  position: relative;
+}
+.name{
+font-family:papyrus ;
+margin:0;
+padding:50px;
+text-align: center;
+
+}
+.right-cloud{
+  left: 70%;
+  position: absolute;
+}
+.para-one{
+  font-family:cursive;
+  font-size:130%;
+  text-align: center;
+}
+.left-cloud{
+  position: absolute;
+    right: 70%;
+    top: 50%;
+}
+.mountain{
+  left: 30%;
+  position: relative;
+}
